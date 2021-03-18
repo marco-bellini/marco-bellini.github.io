@@ -1,8 +1,8 @@
 ---
   
-title: "Starbucks Project"
+title: "Starbucks Customer Promotion"
 permalink: /starbucks/
-excerpt: "Starbucks Capstone Overview"
+excerpt: "Large project exploring and modelling complex behavioral data of Starbucks customers."
 header:
   image: /assets/starbucks/coffee.jpg
   teaser: assets/starbucks/coffee.jpg 
@@ -15,7 +15,7 @@ classes: wide
 
 
 
-
+This is a very large, realistic project, provided by a collaboration of Starbucks and Udacity.
 The Starbucks Capstone is a business data analysis case provided by [Udacity](https://www.udacity.com) .
 It features a number of challenges in terms of data engineering and modeling.
 The code for the analyis is available on [github](https://github.com/marco-bellini/Starbucks_capstone.git)

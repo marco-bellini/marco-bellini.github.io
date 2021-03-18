@@ -1,8 +1,8 @@
 ---
   
-title: "Sparkify: User Churn"
+title: "Big Data analysis of User Churn"
 permalink: /songs/
-excerpt: "Overview of Sparkify Project"
+excerpt: "Spark is used to analyze and explore a very large dataset to predict user churn"
 header:
   image: /assets/Sparkify_test3_ETL/sparkify_splash.jpg
   teaser: assets/Sparkify_test3_ETL/sparkify_splash.jpg 
@@ -29,3 +29,8 @@ The goal is to understand and model user churn.
 ### [Goal and EDA](/songs/sp_eda/)
 Problem statement and initial data exploration.
 
+#### Tools
+- Spark
+
+#### Techniques
+- dealing with Big Data 

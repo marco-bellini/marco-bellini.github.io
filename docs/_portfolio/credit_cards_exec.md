@@ -2,7 +2,7 @@
   
 title: "Credit Card Application"
 permalink: /credit_card/
-excerpt: "Prediction of the outcome of credit card applications using a tiny dataset"
+excerpt: "Prediction of the outcome of credit card applications using a tiny dataset. The model's fairness is assessed and improved."
 header:
   image: /assets/UCI_Credit_Cards/card_splash1.jpg
   teaser: assets/UCI_Credit_Cards/card_splash1.jpg 
