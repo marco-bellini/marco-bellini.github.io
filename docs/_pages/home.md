@@ -7,7 +7,7 @@ header:
   
 excerpt: >
   <font size="+2"> A personal website with practical information on Data Science and Machine Learning from a practitioner's perspective. <br /></font>
-  <big><a href="https://www.linkedin.com/in/marcobellini/">LinkedIn Profile</a></big>
+  
 feature_row:
   - image_path: /assets/images/splash_tree.jpg
     alt: "customizable"
@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/splash_nn.jpg
     alt: "fully responsive"
     title: "Neural Networks"
-    excerpt: "Posts about use of Neural Networks"
+    excerpt: "Posts about Neural Networks"
     url: "/tags/#neural-networks"
     btn_class: "btn--primary"
     btn_label: "Learn more"
