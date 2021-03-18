@@ -9,8 +9,8 @@ toc_sticky: true
 author_profile: false
 classes: post
 tags:
-  - Classification
-  - Fairness
+  - classification
+  - fairness analysis
 categories:
   - Credit Card
 ---

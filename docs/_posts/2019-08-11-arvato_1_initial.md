@@ -10,7 +10,12 @@ toc_sticky: true
 author_profile: true
 classes: post
 tags:
-  - Classification
+- classification
+- XGBoost
+- scikit-learn
+- contingency tables
+- feature selection
+- validation curve
 categories:
   - Arvato
 ---
@@ -24,16 +29,14 @@ The dataset is provided by Arvato Financial Solutions, a Bertelsmann subsidiary 
 
 ### 2 Problem Assessment and Goal
 
-The goal is to train a classifier able to  .
+The goal is to train a classifier able to identify customers that will respond positively to a mailing order campaign based on demographics.
 
-The problem is challenging because:
-* disasters are infrequent events, hence the classes are imbalanced
+The problem is challenging because the classes are very imbalanced and there are many features (360) with significant overlap and missing data.
 
-In this case we limit ourselves to sketching a proof of concept, rather than presenting a full solution. 
-For example, although the problem is multi-class we focus on predicting a single class (`food`).
+In this case, we are interested in obtaining quickly a reasonable baseline, with a small number of features.
+This baseline model could be very advantageous since it does not require costly and complex collection of data, if the performance is sufficient. 
+ We will evaluate the classification results based on the average precision metric.
 
-We will evaluate the classification based on the `F1` metric and the confusion matrix (plotted as function of the threshold).
-The goal is to have an acceptable number of detection of disaster events, keeping false negatives to a minimum.
 
 
 ### EDA

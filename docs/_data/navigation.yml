@@ -20,8 +20,12 @@ foo:
 
 # main links
 main:
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Tools"
+    url: /tools/
+#  - title: "Blog"
+#    url: /blog/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"

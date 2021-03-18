@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Project Portfolio"
 permalink: /projects/
 excerpt: "Project portfolio"
 last_modified_at: 2019-04-18T15:53:52-04:00
@@ -8,11 +8,10 @@ toc: true
 
 Dealing with the complexity of real-life projects is essential to really grow as an expert in Data Science and Machine Learning.
 There are many excellent online courses for those who want to improve their Data Science skills but nothing beats practice.
-Unfortunately, I cannot write about my projects at work, except for academic publications.
+Understandably, I cannot write about my work, except for academic publications.
 
 
-So I am starting a directory about projects of interest from public sources such as the UCI machine learning repository or Kaggle.
-Some projects are from the excellent course on Udacity. I was impressed with the complexity of the projects and with throughness of the expert review.
+So I am starting a directory about projects of interest from public sources such as the UCI machine learning repository or Kaggle or other sources.
 
 
 ## [Credit card frauds](/credit_card_fraud/)

@@ -1,8 +1,8 @@
 ---
   
-title: "UCI Credit Card Application Project"
+title: "Credit Card Application"
 permalink: /credit_card/
-excerpt: "Overview of UCI Credit Card Application Project"
+excerpt: "Prediction of the outcome of credit card applications using a tiny dataset"
 header:
   image: /assets/UCI_Credit_Cards/card_splash1.jpg
   teaser: assets/UCI_Credit_Cards/card_splash1.jpg 
@@ -21,7 +21,9 @@ The dataset comprises decisions on credit card applications based on the feature
 The dataset comprises only 690 data points.
 
 ## Goal
-The use case is to predict the outcome of a credit card application.
+The use case is to predict the outcome of a credit card application, highlighting issues in dealing with tiny datasets.
+Finally, the models obtained are checked for fairness.
+
 
 ## Analysis
 
@@ -33,3 +35,16 @@ Simple approach based on gradient boosted tree classifier.
 
 ### [Fairness analysis](/credit_card/cc_fairness/)
 Analysis and improvement of fairness of the classification.
+
+
+#### Tools
+- XGBoost
+- scikit-learn
+- SHAP
+- seaborn
+
+#### Techniques
+- learning curve
+- model stability
+- hyperparameter tuning
+- fairness analysis

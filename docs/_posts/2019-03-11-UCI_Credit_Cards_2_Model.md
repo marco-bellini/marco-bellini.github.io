@@ -9,8 +9,12 @@ toc_sticky: true
 author_profile: false
 classes: post
 tags:
-  - EDA
-  - Visualization
+  - learning curve
+  - model stability
+  - hyperparameter tuning
+  - XGBoost
+  - scikit-learn
+  - SHAP
 categories:
   - Credit Card
 ---

@@ -1,7 +1,7 @@
 ---  
-title: "Arvato Customer Response Project"
+title: "Marketing Response and Customer Clustering"
 permalink: /arvato/
-excerpt: "Short project: Classification of responders to marketing campaign"
+excerpt: "Classification of responders to marketing campaign"
 header:
   image: /assets/arvato/arvato.jpg
   teaser: assets/arvato/arvato.jpg 
@@ -17,8 +17,18 @@ classes: wide
 
 The dataset is provided by Arvato Financial Solutions, a Bertelsmann subsidiary and it comprises demographic attributes from the targets of a mailing order campaign. The task is to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
+The dataset is sizeable (several hundreds of megabytes) and requires significant cleaning and feature engineering, which is omitted.
+Here we focus on feature selection for categorical features and model evaluation.
 
 ### [Initial Approach](/arvato/initial_approach/)
-Introduction, initial assessment 
+Introduction, initial assessment, automated feature selection and model evaluation 
 
 
+#### Tools
+- XGBoost
+- scikit-learn
+
+#### Techniques
+- contingency tables
+- feature selection
+- validation curve

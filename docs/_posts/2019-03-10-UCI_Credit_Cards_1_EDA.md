@@ -10,7 +10,7 @@ author_profile: true
 classes: post
 tags:
   - EDA
-  - Visualization
+  - visualization
 categories:
   - Credit Card
 ---
