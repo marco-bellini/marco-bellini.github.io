@@ -14,10 +14,8 @@ tags:
   - unbalanced dataset
   - XGBoost
   - scikit-learn
-
-#### Techniques
-- learning curve
-- feature selection  
+  - learning curve
+  - feature selection  
 categories:
   - Credit Card Fraud
 ---
