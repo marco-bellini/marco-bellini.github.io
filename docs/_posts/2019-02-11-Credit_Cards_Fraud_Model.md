@@ -9,9 +9,15 @@ toc_sticky: true
 author_profile: false
 classes: post
 tags:
-  - Classification
+  - classification
   - EDA
-  - Unbalanced
+  - unbalanced dataset
+  - XGBoost
+  - scikit-learn
+
+#### Techniques
+- learning curve
+- feature selection  
 categories:
   - Credit Card Fraud
 ---
@@ -813,7 +819,7 @@ While some features show remarkable difference in the distributions, others are 
 The EDA suggests that some features may not be important. Even though many algorithms support regularization techniques discarding uninformative features may improve the prediction.
 
 
-### Select K-best technique
+## Select K-best technique
 
 
 ```python
@@ -847,7 +853,7 @@ plt.legend();
 
 As expected V13 and V15 have low predictivity.
 
-### Recursive feature elimination with cross-validation
+## Recursive feature elimination with cross-validation
 
 Recursive feature selections allows to determinte the optimal amount of features.
 

@@ -75,3 +75,5 @@ Classification is used to identify the customers that should not receive offers 
 
 ### [Conclusions](/starbucks/starbucks_conclusions/)
 The findings are summarized and reflections about the project are provided.
+
+

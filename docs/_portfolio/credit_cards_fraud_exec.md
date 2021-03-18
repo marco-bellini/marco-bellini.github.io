@@ -1,8 +1,8 @@
 ---
   
-title: "ULB Credit Card Fraud Project"
+title: "Credit Card Fraud Detection"
 permalink: /credit_card_fraud/
-excerpt: "Overview of Credit Card Fraud Project"
+excerpt: "Detection of credit card fraudolent transactions"
 header:
   image: /assets/CC_fraud/credit_fraud.jpg
   teaser: assets/CC_fraud/credit_fraud.jpg 
@@ -12,7 +12,6 @@ toc_label: "Page Index"
 author_profile: true
 classes: wide
 ---
-
 
 
 
@@ -27,5 +26,14 @@ The goal is to train a classifier able to distinguish fraudolent transactions (o
 ## Analysis
 
 ### [Goal and EDA](/credit_card_fraud/ccf_model/)
-Problem statement and initial data exploration.
+Problem statement and initial data exploration. Several feature selection techniques are used to identify promising models
+
+
+#### Tools
+- XGBoost
+- scikit-learn
+
+#### Techniques
+- learning curve
+- feature selection
 

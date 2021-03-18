@@ -22,7 +22,7 @@ foo:
 main:
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Tools"
+  - title: "Tools and Techniques"
     url: /tools/
 #  - title: "Blog"
 #    url: /blog/

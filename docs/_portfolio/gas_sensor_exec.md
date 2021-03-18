@@ -1,8 +1,8 @@
 ---
   
-title: "Gas Sensor Project"
+title: "LSTM for prediction of Gas Sensor signal"
 permalink: /gas_sensor/
-excerpt: "Overview of UCI Gas Sensor Project"
+excerpt: "Neural networks are used to perform sensor fusion on air quality timeseries."
 header:
   image: /assets/ibm_gas_sensor/gas_sensor.jpg
   teaser: assets/ibm_gas_sensor/gas_sensor.jpg 
@@ -14,9 +14,6 @@ author_profile: true
 classes: wide
 ---
 
-
-
-This project was used as the capstone project for the IBM Advanced Data Science Specialization Certificate.
 
 ## Overview
 The dataset comprises time series from different gas sensors and it can be used to study sensors fusion topics.
@@ -34,3 +31,14 @@ Problem statement and initial data exploration.
 ### [Basic Neural Network Model](/gas_sensor/gas_model/)
 Simple baseline models and first neural network approach.
 
+
+#### Tools
+- Tensorflow
+- statmodels
+
+#### Techniques
+- LSTM
+- Time Series
+- Deep Learning
+
+This project was used as the capstone project for the IBM Advanced Data Science Specialization Certificate.

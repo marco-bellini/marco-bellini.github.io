@@ -1,6 +1,6 @@
 ---  
 title: "Marketing Response and Customer Clustering"
-permalink: /arvato/
+permalink: /marketing/
 excerpt: "Classification of responders to marketing campaign"
 header:
   image: /assets/arvato/arvato.jpg
