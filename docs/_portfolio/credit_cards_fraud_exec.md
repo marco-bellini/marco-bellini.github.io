@@ -3,6 +3,9 @@
 title: "ULB Credit Card Fraud Project"
 permalink: /credit_card_fraud/
 excerpt: "Overview of Credit Card Fraud Project"
+header:
+  image: /assets/CC_fraud/credit_fraud.jpg
+  teaser: assets/CC_fraud/credit_fraud.jpg 
 last_modified_at: 2020-06-11T15:53:52-04:00
 toc: false
 toc_label: "Page Index"

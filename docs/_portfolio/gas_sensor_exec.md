@@ -3,6 +3,10 @@
 title: "Gas Sensor Project"
 permalink: /gas_sensor/
 excerpt: "Overview of UCI Gas Sensor Project"
+header:
+  image: /assets/ibm_gas_sensor/gas_sensor.jpg
+  teaser: assets/ibm_gas_sensor/gas_sensor.jpg 
+
 last_modified_at: 2020-06-11T15:53:52-04:00
 toc: false
 toc_label: "Page Index"

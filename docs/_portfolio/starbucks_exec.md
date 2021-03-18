@@ -3,6 +3,9 @@
 title: "Starbucks Project"
 permalink: /starbucks/
 excerpt: "Starbucks Capstone Overview"
+header:
+  image: /assets/starbucks/coffee.jpg
+  teaser: assets/starbucks/coffee.jpg 
 last_modified_at: 2019-04-18T15:53:52-04:00
 toc: false
 toc_label: "Page Index"

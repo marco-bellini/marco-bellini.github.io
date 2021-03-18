@@ -3,6 +3,9 @@
 title: "Sparkify: User Churn"
 permalink: /songs/
 excerpt: "Overview of Sparkify Project"
+header:
+  image: /assets/Sparkify_test3_ETL/sparkify_splash.jpg
+  teaser: assets/Sparkify_test3_ETL/sparkify_splash.jpg 
 last_modified_at: 2020-06-11T15:53:52-04:00
 toc: false
 toc_label: "Page Index"
