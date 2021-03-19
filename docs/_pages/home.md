@@ -3,11 +3,9 @@ layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/sand_splash.jpg
-  overlay_filter: rgba(200, 200, 255, 0.25)
-  
+  overlay_filter: rgba(200, 200, 255, 0.25) 
 excerpt: >
   <font size="+2"> A personal website with practical information on Data Science and Machine Learning from a practitioner's perspective. <br /></font>
-
 feature_row:
   - image_path: /assets/images/wave.png
     alt: "Data Analysis"
@@ -23,6 +21,5 @@ feature_row:
     excerpt: "Models should be chosen properly depending on the problem, dataset, goals and constraints, tuned and validated with careful data hygiene procedures"
 ---
 
-test
 
 {% include feature_row %}
