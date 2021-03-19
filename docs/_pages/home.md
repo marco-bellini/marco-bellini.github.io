@@ -8,8 +8,6 @@ header:
 excerpt: >
   <font size="+2"> A personal website with practical information on Data Science and Machine Learning from a practitioner's perspective. <br /></font>
 
-test
-
 feature_row:
   - image_path: /assets/images/wave.png
     alt: "Data Analysis"
@@ -24,5 +22,7 @@ feature_row:
     title: "Models"
     excerpt: "Models should be chosen properly depending on the problem, dataset, goals and constraints, tuned and validated with careful data hygiene procedures"
 ---
+
+test
 
 {% include feature_row %}
