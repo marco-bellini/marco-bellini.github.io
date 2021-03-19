@@ -84,7 +84,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bellini_photo.jpg"
-  bio              : "Fulbright Scholar, Electrical Engineering PhD, MBA, with strong experience in numerical modelling, statistics, data science and business analysis. 10 years experience in power semiconductor industry, mathematical modelling and data analysis."
+  bio              : "Fulbright Scholar, Electrical Engineering PhD, MBA, 10+ years experience in the semiconductor industry. Passionate about data science, statistics and data-driven decision making."
 
   location         : "Zurich, Switzerland"
   links:

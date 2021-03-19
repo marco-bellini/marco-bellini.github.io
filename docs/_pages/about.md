@@ -1,30 +1,19 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Marco Bellini is a Fulbright Scholar, Electrical Engineering PhD, MBA, with strong experience in numerical modelling, statistics, data science and business analysis."
+title: "About Me"
+excerpt: "Marco Bellini is a Fulbright Scholar, Electrical Engineering PhD, MBA, with solid experience in data science, statistics, and business analysis."
 ---
 
-Experienced Principal Scientist in the area of mathematical and statistical modelling and machine learning applied to power semiconductor devices. 
-
-
-Result-focused innovator with strong project and people leadership skills, excellend technical and business communication skills, a passion for translating innovation into competitive products and proven effectiveness at fact-based structured strategic analysis.
-
-
----
-Analytics skills:
-Data Analytics, Machine Learning, Deep Learning, Mathematical Optimization and Modelling
-
-Business skills:
-Project Management, Strategy Analysis
-
-Frameworks/Tools:
-Tensorflow, Scikit-learn, Pyspark, Statsmodels, Python
+From the beginning of my career as an expert in the design and development of semiconductors I leveraged mathematical optimization, object-oriented programming, data science and statistics to develop better products, faster and cheaper.
+Because of my passion for result-focused innovation, my bag of tools and techniques kept growing, including Deep Neural networks, Bayesian Data Analysis,  Generative Adversarial Networks.
+State-of-art tools are game-changing, but even more important are the data analysis approach and strategy that I learned in my work as a project leader. The goal of working with data is to be able to take a meaningful business decision with confidence. 
 
 
 ## About this site
 
-This site is a collection of analyses and experiments focusing on applying Data Science, Machine Learning and Deep Learning techniques to public datasets.
-I like to share my learnings in the hope that they can be useful to others and to have a measure of my progress.
+There is a vast number of websites teaching basic data science techniques. This site focuses on a few challenges problems, bases on public datasets, attacked with a realistic approach and state-of-art techniques.
+I enjoy sharing my learnings in the hope that they can be useful to others and to keep a measure of my progress.
+
 
 ---
 

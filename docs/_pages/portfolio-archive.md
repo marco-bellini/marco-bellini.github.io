@@ -12,4 +12,4 @@ There are many excellent online courses for those who want to improve their Data
 Understandably, I cannot write about my work, except for academic publications.
 
 
-So I am starting a directory about projects of interest from public sources such as the UCI machine learning repository or Kaggle or other sources.
+So I am starting a directory about projects of interest from public sources such as the UCI machine learning repository or Kaggle or other sources both as personal portfolio and as a tutorial for best practices.
