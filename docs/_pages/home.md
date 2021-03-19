@@ -21,5 +21,7 @@ feature_row:
     excerpt: "Models should be chosen properly depending on the problem, dataset, goals and constraints, tuned and validated with careful data hygiene procedures"
 ---
 
+![quote]({{ site.url }}{{ site.baseurl }}/assets/images/quote.png)
+{: .full}
 
 {% include feature_row %}
