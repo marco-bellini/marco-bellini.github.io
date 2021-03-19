@@ -11,17 +11,17 @@ excerpt: >
 
   
 feature_row:
-  - image_path: /assets/images/wave.jpg
+  - image_path: /assets/images/wave.png
     alt: "Data Analysis"
     title: "Data Analysis"
     excerpt: "Exploratory data analysis is key to understand both the dataset and the problems and to formulate new hypothesis and questions"
-  - image_path: /assets/images/chart.jpg
+  - image_path: /assets/images/chart.png
     alt: "Metrics"
     title: "Metrics"
     excerpt: "Metrics must be selected according to the business goals, the data and the approach chosen."
-  - image_path: /assets/images/model.jpg
-    alt: "fully responsive"
-    title: "Modelling"
+  - image_path: /assets/images/model.png
+    alt: "Models"
+    title: "Models"
     excerpt: "Models should be chosen properly depending on the problem, dataset, goals and constraints, tuned and validated with careful data hygiene procedures"
 ---
 
