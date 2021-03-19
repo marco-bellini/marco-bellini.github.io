@@ -8,8 +8,8 @@ header:
 excerpt: >
   <font size="+2"> A personal website with practical information on Data Science and Machine Learning from a practitioner's perspective. <br /></font>
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/quote.png){: .full}
-
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/quote.png)
+{: .full}{% endraw %}
   
 feature_row:
   - image_path: /assets/images/wave.png
