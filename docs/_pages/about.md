@@ -21,13 +21,3 @@ There is a vast number of websites teaching basic data science techniques. This 
 I enjoy sharing my learnings in the hope that they can be useful to others and to keep a measure of my progress.
 
 
----
-<pre>
-.post-title {
-  font-size: 3px;
-  line-height: 1.0;
-This website is designed and maintained by Marco Bellini. 
-The design is based on the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose.
-The splash image is derived from a photo by Hembo Pagi.
-}
-</pre>
