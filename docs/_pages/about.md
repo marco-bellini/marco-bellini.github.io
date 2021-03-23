@@ -22,6 +22,12 @@ I enjoy sharing my learnings in the hope that they can be useful to others and t
 
 
 ---
-
-This website is designed and maintained by Marco Bellini. The design is based on the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose.
+<pre>
+.post-title {
+  font-size: 10px;
+  line-height: 1.0;
+This website is designed and maintained by Marco Bellini. 
+The design is based on the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose.
 The splash image is derived from a photo by Hembo Pagi.
+}
+</pre>
