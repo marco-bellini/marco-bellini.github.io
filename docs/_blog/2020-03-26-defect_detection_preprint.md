@@ -12,10 +12,9 @@ categories:
 
 #### 2021-3-26: Paper on Object Detection accepted to ASMC Conference
 
-Please find [here](http://marco-bellini.github.io/blog/defect_detection_preprint.pdf) a preprint of my work "An Active Deep Learning Method for the Detection of Defects in Power Semiconductors", in collaboration with G. Pantalos, P. Kaspar, L. Knoll, and L. De-Michielis, to be presented at the [IEEE 2021 ASMC Conference](http://www.semi.org/en/connect/events/advanced-semiconductor-manufacturing-conference-asmc).
+I am very proud to share [here](http://marco-bellini.github.io/blog/defect_detection_preprint.pdf) a preprint of my work "An Active Deep Learning Method for the Detection of Defects in Power Semiconductors", in collaboration with G. Pantalos, P. Kaspar, L. Knoll, and L. De-Michielis, to be presented at the [IEEE 2021 ASMC Conference](http://www.semi.org/en/connect/events/advanced-semiconductor-manufacturing-conference-asmc) in May 2021.
 
 This work uses TensorFlow 2.0 to identify the location and type of fabrication defects in power semiconductors.
-
 
 
 #### Copyright
