@@ -1,5 +1,5 @@
 ---
-title: "Paper accepted to ASCM Conference"
+title: "Paper accepted to ASMC Conference"
 permalink: /semiconductor_defect_detection/
 excerpt: "Preprint of paper accepted to ASMC conference featuring Active Learning approach for Object Detection."
 last_modified_at: 2021-03-26T12:03:52-04:00
