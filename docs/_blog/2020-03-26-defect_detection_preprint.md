@@ -10,7 +10,7 @@ categories:
   - Blog
 ---
 
-# Paper on Ohject Detection accepted to ASCM Conference
+#### 2021-3-26: Paper on Ohject Detection accepted to ASCM Conference
 
 Please find [here](http://marco-bellini.github.io/blog/defect_detection_preprint.pdf) a preprint of my work "An Active Deep Learning Method for the Detection of Defects in Power Semiconductors", to be presented at the [IEEE 2021 ASCM Conference](http://www.semi.org/en/connect/events/advanced-semiconductor-manufacturing-conference-asmc).
 
@@ -18,5 +18,5 @@ This work uses TensorFlow 2.0 to identify the location and type of fabrication d
 
 
 
-### Copyright
+#### Copyright
 Copyright@IEEE. Link to original IEEE abstract in IEEE Xplore will be provided after publication.
